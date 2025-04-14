@@ -1,4 +1,4 @@
 # new project
 
-This project was created from local system
-Created by Ulhas Jagtap
+This project was created from local system.
+Created by Ulhas Jagtap.
